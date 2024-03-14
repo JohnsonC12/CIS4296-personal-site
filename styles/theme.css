@@ -45,6 +45,10 @@
     --bs-nav-link-color: white;
     --bs-nav-link-hover-color: white;
 }
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
 
 /* .btn-primary {
     background-color: var(--temple-red) !important;

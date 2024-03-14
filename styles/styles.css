@@ -1,6 +1,6 @@
 html,
 body {
-    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .section {
@@ -41,12 +41,14 @@ body {
 
 .class-card {
     background-color: #eeeeee;
-    color: black;
+    color: pink;
     transition-property: all;
     transition-duration: 0.3s;
+    font : italic;
 }
 
 .class-card:hover {
     background-color: var(--bs-primary);
     color: white;
 }
+
